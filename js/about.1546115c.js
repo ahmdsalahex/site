@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo3_vue_router"]=self["webpackChunkdemo3_vue_router"]||[]).push([[443],{833:function(e,u,n){n.r(u),n.d(u,{default:function(){return f}});var r=n(3396);const t={class:"about"},a=(0,r._)("h1",null,"This is an about page",-1),o=[a];function s(e,u){return(0,r.wg)(),(0,r.iD)("div",t,o)}var c=n(89);const i={},d=(0,c.Z)(i,[["render",s]]);var f=d}}]);
+//# sourceMappingURL=about.1546115c.js.map

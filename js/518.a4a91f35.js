@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo3_vue_router"]=self["webpackChunkdemo3_vue_router"]||[]).push([[518],{1518:function(r,e,u){u.r(e),u.d(e,{default:function(){return i}});var n=u(3396),t=u(7139);const o=(0,n._)("h1",null," Order Page ",-1);function d(r,e,u,d,l,s){return(0,n.wg)(),(0,n.iD)(n.HY,null,[o,(0,n._)("p",null," Your Order Number is # "+(0,t.zw)(u.id),1)],64)}var l={props:["id"]},s=u(89);const c=(0,s.Z)(l,[["render",d]]);var i=c}}]);
+//# sourceMappingURL=518.a4a91f35.js.map
