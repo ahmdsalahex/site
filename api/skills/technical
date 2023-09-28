@@ -1,0 +1,48 @@
+[
+  {
+    "title": "IT Skills",
+    "skills": [
+      "Microsoft Certified System Administrator (MSCA) (2019)",
+      "Cisco Certified Network Associate (CCNA) (200-301)",
+      "Red Hat Certified System Administrator (RHCSA)",
+      "Virtualization Technology (VMware, Microsoft Hyper-v)",
+      "VMware ESXi & vCenter Installation / Management",
+      "SQL & NoSQL DBs (Installation, Management)",
+      "Strong knowledge of Storage Concepts",
+      "Fundamentals of Firewalls Operations"
+    ]
+  },
+  {
+    "title": "Programming Skills",
+    "skills":[
+      "C++ Basics",
+      "HTML, CSS, JS, PHP",
+      "SQL",
+      "Strong fundamentals of Java / C# Programming Languages",
+      "Bash / Python Scripting",
+      "Automation Tools (such as: Ansible)"
+    ]
+  },
+  {
+    "title": "Cloud Computing",
+    "skills":[
+      "Basic knowledge of AWS",
+      "Strong knowledge of Azure & Azure Active Directory",
+      "Teams Administration",
+      "Microsoft 365 (Office 365, Exchange, ..)"
+    ]
+  },
+  {
+    "title": "DevOps & Platform Engineering Skills",
+    "skills":[
+      "Monitoring & Logging Tools (Such as: EFK, Prometheus & Grafana)",
+      "Microservices Application Implementations / Configurations",
+      "Docker, Containerd, CRI-O",
+      "Kubernetes Installation / Configurations / Management",
+      "DevOps Tools",
+      "Artifact & Container Registries (Nexus, Harbor, etc..)",
+      "VMware vSphere with Tanzu: Deploy and Manage [V7]",
+      "VMware Tanzu Products (TKGs, TKGm), TAP, RabbitMQ, Gemfire, ..etc"
+    ]
+  }
+]

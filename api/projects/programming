@@ -1,0 +1,20 @@
+{
+  "brief": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem harum facere odit laboriosam. Asperiores ipsa impedit reprehenderit similique, aspernatur iusto commodi ad blanditiis dolore perferendis voluptatem adipisci iure, illo odit.",
+  "projects":
+  [
+    {
+      "id": 30001,
+      "title": "Pizzaiko - Restaurant Management System",
+      "tags": ["C#", ".Net", "Programming", "Desktop"],
+      "description": "Pizzaiko is a restaurant management application that helps you to manage your restaurant properly and enables you to show the statistic of your revenues as well as that you could export the all statistics to excel files. the application has a lot of features that would you like.\n\nPizzaiko is very customizable application which really would be convenient for you. and of course all of you restaurant data would be encrypted with a key.",
+      "images": ["pizzaiko/1.jpg", "pizzaiko/2.jpg", "pizzaiko/3.jpg", "pizzaiko/4.jpg", "pizzaiko/5.jpg"]
+    },
+    {
+      "id": 30002,
+      "title": "Haraj Bot - Automation Desktop Application",
+      "tags": ["C#", ".Net", "Programming", "Desktop", "Automation"],
+      "description": "Haraj Bot is an automation desktop application that updates old advertisements on Haraj Site (Advertisements Site) and Upload advertisements in a specific time which you were specified and manage existing ads and delete it if you want. it's full local control panel for site & Auto-Publish ads with schedule",
+      "images": ["haraj-bot/1.png", "haraj-bot/2.png", "haraj-bot/3.png", "haraj-bot/4.png", "haraj-bot/5.png"]
+    }
+  ]
+}

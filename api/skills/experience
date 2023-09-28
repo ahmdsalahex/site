@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Microsoft Windows",
+    "skills": [
+      "Extensive experience in installing & administering Windows Server operating systems (e.g., Windows Server 2012/2016/2019)",
+      "Proficient in configuring and managing Active Directory services, including user accounts, group policies, and domain controllers",
+      "Skilled in setting up and managing DNS and DHCP",
+      "Experienced in implementing and managing file and print services, including shared folders, permissions, and printer management.",
+      "Familiarity with virtualization technologies like Hyper-V and VMware for creating and managing virtual machines",
+      "Competent in implementing and maintaining server roles and features such as IIS and Remote Desktop Services"
+    ]
+  },
+  {
+    "title": "Linux",
+    "skills": [
+      "Proficient in various Linux distributions such as Ubuntu, CentOS, Debian, and Red Hat Enterprise Linux (RHEL)",
+      "Extensive experience in Linux server administration, including installation, configuration, and maintenance of Linux-based systems",
+      "Competent in managing user accounts, permissions, and security settings on Linux servers",
+      "Proficient in managing files and directories permissions in Linux",
+      "Experienced in configuring and managing network services, including DNS and firewall settings",
+      "Knowledgeable in setting up and managing web servers (e.g., Apache, Nginx) and database servers (e.g., MySQL, PostgreSQL) on Linux platforms",
+      "Proficient in managing Linux-based file systems, including disk partitioning, LVM, formatting, and mounting",
+      "Skilled in package management systems (e.g., apt, yum)",
+      "Proficient in troubleshooting and resolving system and network issues on Linux servers",
+      "Skilled in Linux Namespace (Net, Mount, pid, ..etc) and cgroups",
+      "Skilled in advanced troubleshooting tools such as tcpdump, tshark, dig, netcat, ..",
+      "Proficient in Python & Bash Scripting"
+    ]
+  },
+  {
+    "title": "Virtualization & Security",
+    "skills": [
+      "Proficient in VMware vSphere, a virtualization platform used to create and manage virtual machines (VMs) in data centers",
+      "Skilled in deploying and configuring ESXi hosts, the hypervisor component of VMware vSphere, on physical servers",
+      "Competent in creating, provisioning, and managing virtual machines in vSphere, including hardware configurations, network settings, and storage allocation",
+      "Familiar with vMotion, a feature in vSphere that allows live migration of running VMs",
+      "Knowledgeable in VMware High Availability (HA) and Distributed Resource Scheduler (DRS) features",
+      "Proficient in configuring and managing vSphere Networking, including virtual switches, VLANs, and network adapters",
+      "Proficient in creating and managing vSphere templates",
+      "Knowledgeable in Storage Policy, Content Library, Workload Management",
+      "Troubleshooting ESXi & vCenter via Shell in case of disaster recovery",
+      "Implementing and configuring pfSense Firewall"
+    ]
+  },
+  {
+    "title": "DevOps",
+    "skills": [
+      "Expert in containerization technologies such as (Docker, CRI-o, Containerd, ..)",
+      "Expert in container orchestration platforms like Kubernetes to manage and scale containerized applications",
+      "Proficient in implementing and managing Continuous Integration and Continuous Delivery (CI/CD) pipelines used tools like Jenkins",
+      "Experienced in version control systems, such as Git, including branching, merging, and resolving conflicts",
+      "Wrote multiple Automation Playbooks for several scenarios using Ansible & Ansible Tower (GUI)",
+      "Experienced in monitoring and logging tools such as Prometheus, Grafana, ELK Stack",
+      "Proficient in scripting languages like Bash, Python, or PowerShell to automate tasks and build infrastructure",
+      "Actively keeping up-to-date with the latest DevOps tools, trends, and best practices"
+    ]
+  }
+]
