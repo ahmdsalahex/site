@@ -1,1 +1,0 @@
-import{_ as s,o,c as t,a as e}from"./index.af3adaee.js";const c={},a={class:"test-page"},_=e("div",{class:"container column"},[e("div",{class:"box green col-2"}),e("div",{class:"box blue col-8"}),e("div",{class:"box pink col"})],-1),n=[_];function r(l,i,d,p,v,u){return o(),t("div",a,n)}var f=s(c,[["render",r]]);export{f as default};
