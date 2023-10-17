@@ -1,7 +1,14 @@
 {
   "brief": "My DevOps/Platforming Projects I've spearheaded have been instrumental in streamlining and enhancing my daily responsibilities as a DevOps Engineer. These projects have been carefully designed and executed to automate routine tasks, improve efficiency, and ultimately elevate the overall quality of our software development and deployment processes.",
   "projects": [
-
+    {
+      "id": 20001,
+      "title": "Architecting & Implementing VMware Tanzu Platform ",
+      "tags": ["VMware Tanzu", "vSphere with Tanzu", "Kubernetes", "vSphere Networking", "NSX ALB", "Avi", "TAP", "Greenplum Database", "Harbor"],
+      "description": "Comprehensive Summary of the Work Accomplished during this Project in 3 Days Only:\n\n- Troubleshooted & Configured vSphere vCenter/ESXi Network Configurations.\n- Verified and fulfilled all Tanzu with vSphere prerequisites.\n- Implemented & Configured NSX Advanced Load Balancer.\n- Deployed Harbor (Docker Image Registry).\n- Enabled vSphere with Tanzu Platform.\n- Provisioned a Tanzu Kubernetes Cluster for any shared services (Monitoring, Logging Tools or for testing any application).\n- Provisioned another Tanzu Kubernetes Cluster to host Tanzu Application Platform (TAP)\n  for managing and automating the whole process of application implementation life cycle (build, test, scan, deploy).\n- Setup a Greenplum database cluster and applied the essential configurations and tested it.\n",
+      "imagesPath": "architecting-tanzu-platform",
+      "images": ["1.png", "2.png", "3.png", "4.png", "5.png"]
+    }
   ]
 }
 
