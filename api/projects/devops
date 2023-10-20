@@ -2,12 +2,22 @@
   "brief": "My DevOps/Platforming Projects I've spearheaded have been instrumental in streamlining and enhancing my daily responsibilities as a DevOps Engineer. These projects have been carefully designed and executed to automate routine tasks, improve efficiency, and ultimately elevate the overall quality of our software development and deployment processes.",
   "projects": [
     {
-      "id": 20001,
-      "title": "Architecting & Implementing VMware Tanzu Platform ",
+      "id": 20002,
+      "title": "Architected & Implemented VMware Tanzu Platform",
       "tags": ["VMware Tanzu", "vSphere with Tanzu", "Kubernetes", "vSphere Networking", "NSX ALB", "Avi", "TAP", "Greenplum Database", "Harbor"],
-      "description": "Comprehensive Summary of the Work Accomplished during this Project in 3 Days Only:\n\n- Troubleshooted & Configured vSphere vCenter/ESXi Network Configurations.\n- Verified and fulfilled all Tanzu with vSphere prerequisites.\n- Implemented & Configured NSX Advanced Load Balancer.\n- Deployed Harbor (Docker Image Registry).\n- Enabled vSphere with Tanzu Platform.\n- Provisioned a Tanzu Kubernetes Cluster for any shared services (Monitoring, Logging Tools or for testing any application).\n- Provisioned another Tanzu Kubernetes Cluster to host Tanzu Application Platform (TAP)\n  for managing and automating the whole process of application implementation life cycle (build, test, scan, deploy).\n- Setup a Greenplum database cluster and applied the essential configurations and tested it.\n",
+      "description": "<p> Comprehensive Summary of the Work Accomplished during this Project in 3 Days Only: </p><ul><li>Troubleshooted & Configured vSphere vCenter/ESXi Network Configurations.</li><li>Verified and fulfilled all Tanzu with vSphere prerequisites.</li><li>Implemented & Configured NSX Advanced Load Balancer.</li><li>Deployed Harbor (Docker Image Registry).</li><li>Enabled vSphere with Tanzu Platform.</li><li>Provisioned a Tanzu Kubernetes Cluster for any shared services (Monitoring, Logging Tools or for testing any application).</li><li> Provisioned another Tanzu Kubernetes Cluster to host Tanzu Application Platform (TAP) for managing and automating the whole process of application implementation life cycle (build, test, scan, deploy). </li><li>Setup a Greenplum database cluster and applied the essential configurations and tested it.</li></ul>",
       "imagesPath": "architecting-tanzu-platform",
-      "images": ["1.png", "2.png", "3.png", "4.png", "5.png"]
+      "images": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"]
+    }
+  ],
+  "draft": [
+    {
+      "id": 20001,
+      "title": "High Availability Kubernetes Installation (Latest v1.27)",
+      "tags": ["Kubernetes", "CRI-O", "Docker", "High Availability", "RHEL", "Installation"],
+      "description": "<p> Comprehensive Summary of the Work Accomplished during this Project in 3 Days Only: </p><ul><li>Troubleshooted & Configured vSphere vCenter/ESXi Network Configurations.</li><li>Verified and fulfilled all Tanzu with vSphere prerequisites.</li><li>Implemented & Configured NSX Advanced Load Balancer.</li><li>Deployed Harbor (Docker Image Registry).</li><li>Enabled vSphere with Tanzu Platform.</li><li>Provisioned a Tanzu Kubernetes Cluster for any shared services (Monitoring, Logging Tools or for testing any application).</li><li> Provisioned another Tanzu Kubernetes Cluster to host Tanzu Application Platform (TAP) for managing and automating the whole process of application implementation life cycle (build, test, scan, deploy). </li><li>Setup a Greenplum database cluster and applied the essential configurations and tested it.</li></ul>",
+      "imagesPath": "architecting-tanzu-platform",
+      "images": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"]
     }
   ]
 }
