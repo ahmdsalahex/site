@@ -1,48 +1,41 @@
 [
   {
-    "title": "IT Skills",
-    "skills": [
-      "Microsoft Certified System Administrator (MSCA) (2019)",
-      "Cisco Certified Network Associate (CCNA) (200-301)",
-      "Red Hat Certified System Administrator (RHCSA)",
-      "Virtualization Technology (VMware, Microsoft Hyper-v)",
-      "VMware ESXi & vCenter Installation / Management",
-      "SQL & NoSQL DBs (Installation, Management)",
-      "Strong knowledge of Storage Concepts",
-      "Fundamentals of Firewalls Operations"
-    ]
-  },
-  {
-    "title": "Programming Skills",
+    "title": "DevOps & Platform Engineering Skills",
     "skills":[
-      "C++ Basics",
-      "HTML, CSS, JS, PHP",
-      "SQL",
-      "Strong fundamentals of Java / C# Programming Languages",
-      "Bash / Python Scripting",
-      "Automation Tools (such as: Ansible)"
-    ]
-  },
-  {
-    "title": "Cloud Computing",
-    "skills":[
-      "Basic knowledge of AWS",
+      "Proficiency in AWS Cloud Platform",
       "Strong knowledge of Azure & Azure Active Directory",
+      "Experience with container orchestration platforms like Kubernetes",
+      "Experience with container platforms (Docker, CRI-O, Containerd, Podman, etc..)",
+      "Experience with CI/CD tools like Jenkins",
+      "Setting up pipelines for automated testing, code reviews, and deployment",
+      "Proficiency in IaC tools like Ansible.",
+      "Proficiency in scripting languages like Bash, Python, or PowerShell",
+      "Proficiency in using version control systems like Git",
+      "Proficiency in using monitoring tools like Prometheus, Grafana, IBM Instana.",
+      "Familiarity with database systems (DBMS) Such as: MSSQL, PostgreSQL, MongoDB, NoSQL databases",
+      "Microservices Application Implementations / Configurations",
+      "Experience with VMware vSphere (ESXi, vCenter) Installation, Configuration, Management",
+      "RHCSA: Red Hat Enterprise Linux Administration I, Red Hat Enterprise Linux Administration II",
+      "MCSA: Windows Server Administration (Domain Controller, Active Directory, DNS, Group Policy and DHCP)",
+      "CCNA: Networking, Routing, and switching protocols",
+      "Fundamentals of Firewalls Operations",
+      "DevOps Tools",
+      "Artifact & Container Registries (Nexus, Harbor, etc..)",
+      "VMware vSphere with Tanzu: Deploy and Manage [V7]",
+      "VMware Tanzu Products (TKGs, TKGm), TAP, RabbitMQ, Gemfire, ..etc",
       "Teams Administration",
       "Microsoft 365 (Office 365, Exchange, ..)"
     ]
   },
   {
-    "title": "DevOps & Platform Engineering Skills",
+    "title": "Programming Skills",
     "skills":[
-      "Monitoring & Logging Tools (Such as: EFK, Prometheus & Grafana)",
-      "Microservices Application Implementations / Configurations",
-      "Docker, Containerd, CRI-O",
-      "Kubernetes Installation / Configurations / Management",
-      "DevOps Tools",
-      "Artifact & Container Registries (Nexus, Harbor, etc..)",
-      "VMware vSphere with Tanzu: Deploy and Manage [V7]",
-      "VMware Tanzu Products (TKGs, TKGm), TAP, RabbitMQ, Gemfire, ..etc"
+      "NodeJS",
+      "Jave, C++ Basics",
+      "HTML, CSS, JS, PHP",
+      "SQL",
+      "C# .Net",
+      "Bash / Python Scripting"
     ]
   }
 ]

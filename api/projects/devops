@@ -5,25 +5,89 @@
       "id": 20001,
       "title": "Architected & Implemented VMware Tanzu Platform",
       "tags": ["VMware Tanzu", "vSphere with Tanzu", "Kubernetes", "vSphere Networking", "NSX ALB", "Avi", "TAP", "Greenplum Database", "Harbor"],
-      "description": "<p> Comprehensive Summary of the Work Accomplished during this Project in 3 Days Only: </p><ul><li>Troubleshooted & Configured vSphere vCenter/ESXi Network Configurations.</li><li>Verified and fulfilled all Tanzu with vSphere prerequisites.</li><li>Implemented & Configured NSX Advanced Load Balancer.</li><li>Deployed Harbor (Docker Image Registry).</li><li>Enabled vSphere with Tanzu Platform.</li><li>Provisioned a Tanzu Kubernetes Cluster for any shared services (Monitoring, Logging Tools or for testing any application).</li><li> Provisioned another Tanzu Kubernetes Cluster to host Tanzu Application Platform (TAP) for managing and automating the whole process of application implementation life cycle (build, test, scan, deploy). </li><li>Setup a Greenplum database cluster and applied the essential configurations and tested it.</li></ul>",
+      "description": "<p> Comprehensive Summary of the Work Accomplished during this Project: </p><ul><li>Troubleshooted & Configured vSphere vCenter/ESXi Network Configurations.</li><li>Verified and fulfilled all Tanzu with vSphere prerequisites.</li><li>Implemented & Configured NSX Advanced Load Balancer.</li><li>Deployed Harbor (Docker Image Registry).</li><li>Enabled vSphere with Tanzu Platform.</li><li>Provisioned a Tanzu Kubernetes Cluster for any shared services (Monitoring, Logging Tools or for testing any application).</li><li> Provisioned another Tanzu Kubernetes Cluster to host Tanzu Application Platform (TAP) for managing and automating the whole process of application implementation life cycle (build, test, scan, deploy). </li><li>Setup a Greenplum database cluster and applied the essential configurations and tested it.</li></ul>",
+      "badge": "engagement",
       "imagesPath": "architecting-tanzu-platform",
-      "images": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"]
+      "images": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"],
+      "customers": [
+        {
+          "name": "confidential",
+          "industry": "Financial Services",
+          "companySize": "1,001-5,000",
+          "headQuarters": "Dubai"
+        },
+        {
+          "name": "confidential",
+          "industry": "Financial Services",
+          "companySize": "501-1000",
+          "headQuarters": "Egypt"
+        },
+        {
+          "name": "confidential",
+          "industry": "Oil and Gas",
+          "companySize": "10,001+",
+          "headQuarters": "Saudi Arabia"
+        },
+        {
+          "name": "confidential",
+          "industry": "Government Administration",
+          "companySize": "10,001+ employees",
+          "headQuarters": "Saudi Arabia"
+        },
+        {
+          "name": "confidential",
+          "industry": "Government Utilities",
+          "companySize": "10,001+ employees",
+          "headQuarters": "Saudi Arabia"
+        }
+      ]
     },
     {
       "id": 20002,
-      "title": "High Availability Kubernetes Installation (Latest v1.27)",
+      "title": "High Availability Kubernetes Platform Installation",
       "tags": ["Kubernetes", "CRI-O", "Docker", "High Availability", "HAProxy", "RHEL", "Installation"],
-      "description": "<p> Initialized High Availability Kubenetes Cluster v1.27 (latest) from scratch using HAProxy as a Load Balancer </p><ul><li>Deployed Flannel as CNI Solution.</li><li>Deployed MetalLB for Kubernetes Load Balancer Services.</li><li>Installed Ingress Nginx Controller.</li><li>Implemented NFS Provisioner and Storage Class for Dynamic PVC Creation.</li><li>Installed Kubnertes Dashboard GUI.</li></ul>",
+      "description": "<p> Initialized High Availability Kubenetes Cluster from scratch and Deployed all Workload Software Implementations</p><ul><li>Initialized K8S using Customer Physical Load Balancer or Deploying HAProxy LB</li><li>Deployed Flannel as CNI Solution.</li><li>Deployed MetalLB for Kubernetes Load Balancer Services.</li><li>Installed Ingress Nginx Controller.</li><li>Implemented Storage Class for Dynamic PVC Creation.</li><li>Implemented Kubnertes Dashboard GUI.</li><li>Deployed HA MongoDB Cluster.</li><li>Installed Logging & Monitoring Tools</li></ul>",
+      "badge": "engagement",
+      "previewImageFit": "fill",
       "imagesPath": "ha-kubernetes-installation",
-      "images": ["1.png", "2.png", "3.png", "4.png"]
+      "images": ["1.png"],
+      "customers": [
+        {
+          "name": "confidential",
+          "industry": "Banking",
+          "companySize": "1,001-5,000",
+          "headQuarters": "Dubai, Egypt"
+        },
+        {
+          "name": "confidential",
+          "industry": "Banking",
+          "companySize": "5,001-10,000",
+          "headQuarters": "Egypt"
+        },
+        {
+          "name": "confidential",
+          "industry": "Banking",
+          "companySize": "5,001-10,000",
+          "headQuarters": "Egypt"
+        }
+      ]
     },
     {
       "id": 20003,
       "title": "Implemented Ansible Automation Platform",
       "tags": ["Ansible", "Automation", "Play Book", "Redhat", "Installation"],
       "description": "<p> Deployed Red Hat Ansible Automation Platform to drive efficiency and improve system performance.</p></p>By creating a series of customized Ansible playbooks, we are automating a multitude of routine tasks,<br> transforming manual processes into streamlined and efficient automated workflows. </p><ul><li>Wrote Playbooks for Various Use Cases using the Ansible Automation Platform</li><li>Configured Client-Machines Access & Platform Configurations</li><li>Played Ansible Playbooks to Automate Operation Tasks</li><li>Enabled and Configured Extra Ansible Platform Features</li></ul>",
+      "badge": "poc",
       "imagesPath": "ansible-automation-platform",
-      "images": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"]
+      "images": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
+      "customers": [
+        {
+          "name": "confidential",
+          "industry": "Government Administration",
+          "companySize": "201-500",
+          "headQuarters": "Saudi Arabia"
+        }
+      ]
     }
   ],
   "draft": [
