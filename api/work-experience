@@ -28,14 +28,17 @@
         "Coordinates activities with network services, or other information systems groups",
         "Organize and Maintain the Datacenter inventory and assets"
       ]
-    }
-  ],
-  "preTimelineItems":
-  [
+    },
+    {
+      "title": "IT Specialist at N.Tech IT Solution Company",
+      "date": "July 2018 – June 2019",
+      "description": "While I was a computer science student, I worked as an IT Specialist at N.Tech IT Solutions,\n where I managed and configured websites, handled network configurations,\n and worked on low-current installations for electronic security and surveillance systems."
+    },
     {
       "title": "Full-Stack Web Developer & Desktop Programmer & Content Writer as Freelancer",
       "date": "July 2015 -  2020 (5 years)",
-      "description": "Before graduation, I gained experience in various computer science domains including: web design and development, desktop programming with .Net C# or Python, automation, and authoring technical articles."
+      "description": "Before graduation, I gained experience in various computer science domains including: web design,\n and development, desktop programming with .Net C# or Python, automation, and authoring technical articles."
     }
-  ]
+  ],
+  "preTimelineItems": []
 }
