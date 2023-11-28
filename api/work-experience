@@ -6,38 +6,36 @@
       "date": "May 2022 - Present",
       "description": "",
       "points": [
-        "Own, build and operate end-to-end reliable, scalable, and maintainable platform",
-        "Work with development and operations teams to design and implement reliable and scalable systems",
-        "Monitor and analyze platform performance to identify and troubleshoot issues",
-        "Implement and maintain monitoring and alerting systems to proactively identify and resolve problems",
-        "Performs technical tasks including environment preparation, solution installation and configuration",
-        "Develop and maintain documentation related to the platform, including technical specifications and runbooks",
-        "Performs Middleware & DevOps products installation and configuration",
-        "Conducts customer training on system administration",
-        "Investigate, analyze, and troubleshoot Tier 3 environment issues"
+        "Played a key role in achieving a more than 10% increase in company revenue at the first initiative through VMware Partnership, successfully finalizing the engagement with impressive feedback from VMware.",
+        "Own and lead more than 15 successful projects, including VMware Partnership Engagements with major enterprises and governments in UAE, KSA, EG including Presales, planning, requirements, implementation sessions in only 6 months.",
+        "I built on-premises and I’m currently supporting over 35 Microservices Solutions Projects based on OpenShift/Kubernetes Cluster platform Projects. Additionally, implement and maintain DevOps Pipeline using Tools like Azure DevOps, Jenkins, Gitlab, Nexus, Harbor and Tekton, with customers such as: banking, financial and Insurance Enterprises including DEV, UAT and Prod Stages.",
+        "Install and configure logging and monitoring tools such as: ELK Stack, Prometheus, Grafana and IBM Instana.",
+        "Responsible for Internal infrastructure environment and automate routine tasks using Bash scripts or IaC tools such as: Ansible.",
+        "Adopt and initiate new technology tools across both internal and customers environments.",
+        "Develop and maintain documentation related to the platform, including technical specifications and runbooks.",
+        "Conducts customer training on system administration."
       ]
     },
     {
-      "title": "IT Support Engineer at ECC Datacenter",
+      "title": "IT Engineer at ECC Datacenter",
       "date": "Nov 2021 – May 2022",
       "description": "",
       "points": [
-        "Install and configure computer systems",
-        "Diagnose hardware/software faults and solve technical problems",
-        "Answers customer’s inquiries & fulfills their technical requirements",
-        "Coordinates activities with network services, or other information systems groups",
-        "Organize and Maintain the Datacenter inventory and assets"
+        "Organized and maintained the datacenter inventory and assets for 30+ customers, including major entities such as the EBC (Central Bank of Egypt), banks, and major financial services companies.",
+        "Automated the monitoring of the status of over 1000 devices in the Datacenter, including servers, routers, switches, firewalls, and PBX, utilizing tools such as CACTI and SCCM.",
+        "Answered customer’s inquiries & fulfilled their technical requirements.",
+        "Installed and configured OS on bare-metal servers, diagnosed & Solved hardware/software faults."
       ]
     },
     {
       "title": "IT Specialist at N.Tech IT Solution Company",
-      "date": "July 2018 – June 2019",
-      "description": "While I was a computer science student, I worked as an IT Specialist at N.Tech IT Solutions,\n where I managed and configured websites, handled network configurations,\n and worked on low-current installations for electronic security and surveillance systems."
+      "date": "July 2018 – Jan 2020",
+      "description": "When I was a CS Student, I worked as an IT Specialist at N.Tech, I managed and configured websites (Hosting, Domains, SSL, SEO), handled network configurations, and worked on low-current installations and surveillance systems."
     },
     {
-      "title": "Full-Stack Web Developer & Desktop Programmer & Content Writer as Freelancer",
+      "title": "Software Engineer as a Freelancer",
       "date": "July 2015 -  2020 (5 years)",
-      "description": "Before graduation, I gained experience in various computer science domains including: web design,\n and development, desktop programming with .Net C# or Python, automation, and authoring technical articles."
+      "description": "I have acquired experience in diverse computer science domains, including Web Full-Stack Development and Desktop Programming. I have successfully designed and maintained software application systems, to meet various customer business needs. My expertise extends to NodeJS, Laravel, .Net C#, VB, C++, Python, PyQT Automation."
     }
   ],
   "preTimelineItems": []

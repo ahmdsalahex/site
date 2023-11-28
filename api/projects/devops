@@ -3,7 +3,7 @@
   "projects": [
     {
       "id": 20001,
-      "title": "Architected & Implemented VMware Tanzu Platform",
+      "title": "Architected & Implemented 15+ VMware Tanzu Platform",
       "tags": ["VMware Tanzu", "vSphere with Tanzu", "Kubernetes", "vSphere Networking", "NSX ALB", "Avi", "TAP", "Greenplum Database", "Harbor"],
       "description": "<p> Comprehensive Summary of the Work Accomplished during this Project: </p><ul><li>Troubleshooted & Configured vSphere vCenter/ESXi Network Configurations.</li><li>Verified and fulfilled all Tanzu with vSphere prerequisites.</li><li>Implemented & Configured NSX Advanced Load Balancer.</li><li>Deployed Harbor (Docker Image Registry).</li><li>Enabled vSphere with Tanzu Platform.</li><li>Provisioned a Tanzu Kubernetes Cluster for any shared services (Monitoring, Logging Tools or for testing any application).</li><li> Provisioned another Tanzu Kubernetes Cluster to host Tanzu Application Platform (TAP) for managing and automating the whole process of application implementation life cycle (build, test, scan, deploy). </li><li>Setup a Greenplum database cluster and applied the essential configurations and tested it.</li></ul>",
       "badge": "engagement",
